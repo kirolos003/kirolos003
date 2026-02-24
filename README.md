@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey, I'm Kirolos 👋
 
 # 💫 About Me:
 💻 I am currently working on:<br>Building cool Flutter apps, improving my mid-level developer skills at IDSC, and exploring ways to make maps, charts, and media content load faster.<br>🤝 I am looking to collaborate on:<br>Open-source Flutter projects, mobile apps with interactive UI, and anything that challenges my problem-solving skills.<br>🆘 I am looking for help with:<br>Advanced Flutter optimization tricks, backend integrations, and mastering large-scale app architecture.<br>📚 I am currently learning:<br>Deep dives into Flutter performance, state management patterns, and next-gen AI APIs like Gemini.<br>❓ Ask me about:<br>Flutter, mobile app development, AI integrations, or even creative ways to make a loading screen fun.<br>🎉 Fun Fact:<br>I was the 3rd in my Computer Science department at October 6 University 🎓, and I love finding clever ways to combine tech and design in apps.
