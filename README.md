@@ -55,11 +55,8 @@ I graduated 3rd in my Computer Science department at October 6 University 🎓 a
 ---
 
 ## 📊 GitHub Stats
-![Kirolos's GitHub stats](https://github-readme-stats.vercel.app/api?username=kirolos003&theme=dark&show_icons=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kirolos003&theme=dark&layout=compact)  
-![Streak](https://nirzak-streak-stats.vercel.app/?user=kirolos003&theme=dark)
 
----
+![Streak](https://nirzak-streak-stats.vercel.app/?user=kirolos003&theme=dark)
 
 [![](https://visitcount.itsvg.in/api?id=kirolos003&icon=0&color=0)](https://visitcount.itsvg.in)
 
