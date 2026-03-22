@@ -2,7 +2,7 @@
 
 # 💫 About Me
 💻 **Currently Working On:**  
-Building Flutter apps, optimizing performance for maps, charts, and media-heavy features, and advancing my skills as a mid-level developer at IDSC.
+Building Flutter apps, optimizing performance for maps, charts, and media-heavy features, and advancing my skills as a Mid-level developer at IDSC.
 
 🤝 **Looking to Collaborate On:**  
 Open-source Flutter projects, innovative mobile apps, and challenging projects that push the boundaries of UI/UX and performance.
